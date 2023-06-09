@@ -1,0 +1,305 @@
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.AssemblyReference.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.SuggestedBindingRedirects.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FBan.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.Properties.Resources.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.GenerateResource.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CoreCompileInputs.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe.config
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CopyComplete
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FDatMon.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe.config
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.AssemblyReference.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.SuggestedBindingRedirects.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FBan.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FDatMon.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.Properties.Resources.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.Login.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.GenerateResource.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CoreCompileInputs.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CopyComplete
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\backup\reloadbackup\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FThongKe.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FDoanhMucMonAn.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.DangNhap.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQuanLy.resources
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.AssemblyReference.cache
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.DangNhap.resources
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FBan.resources
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FDatMon.resources
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.Properties.Resources.resources
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FDoanhMucMonAn.resources
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQuanLy.resources
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FThongKe.resources
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.GenerateResource.cache
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CoreCompileInputs.cache
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe.config
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.dll
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.xml
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CopyComplete
+C:\Users\Hong Nhu\Downloads\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.QuanLy.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.AssemblyReference.cache
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.SuggestedBindingRedirects.cache
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.DangNhap.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FBan.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FDatMon.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.Properties.Resources.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FDoanhMucMonAn.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FThongKe.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.QuanLy.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.GenerateResource.cache
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CoreCompileInputs.cache
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe.config
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.dll
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.xml
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CopyComplete
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQLNhanVien.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLBanAn.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLDanhMucMA.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLMonAn.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK3)\Đồ án lập trình\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLTaiKhoan.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe.config
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.dll
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.xml
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.AssemblyReference.cache
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLBanAn.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLDanhMucMA.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLMonAn.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLTaiKhoan.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.DangNhap.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FBan.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FDatMon.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.Properties.Resources.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FDoanhMucMonAn.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQLNhanVien.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FThongKe.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.QuanLy.resources
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.GenerateResource.cache
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CoreCompileInputs.cache
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CopyComplete
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\Hong Nhu\Downloads\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FNhapKhachHang.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.AssemblyReference.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.SuggestedBindingRedirects.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLBanAn.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLDanhMucMA.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLMonAn.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLTaiKhoan.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.DangNhap.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FBan.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FDatMon.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.Properties.Resources.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FDoanhMucMonAn.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FNhapKhachHang.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQLNhanVien.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FThongKe.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.QuanLy.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.GenerateResource.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CoreCompileInputs.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe.config
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\gộp\menudung\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CopyComplete
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.AssemblyReference.cache
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.SuggestedBindingRedirects.cache
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLBanAn.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLDanhMucMA.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLMonAn.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLTaiKhoan.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.DangNhap.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FBan.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FDatMon.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.Properties.Resources.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FDoanhMucMonAn.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FNhapKhachHang.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQLNhanVien.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FThongKe.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.QuanLy.resources
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.GenerateResource.cache
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CoreCompileInputs.cache
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe.config
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.dll
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.dll
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.xml
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.xml
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\khuet\Desktop\vlu\hk3\lập trình hướng đối tượng\project\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CopyComplete
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe.config
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.AssemblyReference.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.SuggestedBindingRedirects.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLBanAn.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLDanhMucMA.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLMonAn.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLTaiKhoan.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.DangNhap.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FBan.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FDatMon.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.Properties.Resources.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FNhapKhachHang.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQLNhanVien.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FThongKe.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.QuanLy.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.GenerateResource.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CoreCompileInputs.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CopyComplete
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\thu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FKhach.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe.config
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.dll
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.dll
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.xml
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.xml
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.AssemblyReference.cache
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FKhach.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLBanAn.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLMonAn.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLTaiKhoan.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.DangNhap.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FBan.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FDatMon.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.Properties.Resources.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FNhapKhachHang.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQLNhanVien.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FThongKe.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.QuanLy.resources
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.GenerateResource.cache
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CoreCompileInputs.cache
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CopyComplete
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\Hong Nhu\Downloads\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQLDanhMucMA.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\nhu\Đồ Án Cuối Kỳ(khanh)\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe.config
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.AssemblyReference.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.SuggestedBindingRedirects.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FKhach.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLBanAn.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQLDanhMucMA.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLMonAn.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLTaiKhoan.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.DangNhap.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FBan.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FDatMon.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.Properties.Resources.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FNhapKhachHang.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQLNhanVien.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FThongKe.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.QuanLy.resources
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.GenerateResource.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CoreCompileInputs.cache
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CopyComplete
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\OneDrive - VLG\Học Kì 3\Đồ Án Lập Trình Hướng Đối Tượng -  Quản Lý Nhà Hàng\Như\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe.config
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.dll
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.dll
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.xml
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\EPPlus.xml
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.AssemblyReference.cache
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.SuggestedBindingRedirects.cache
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FKhach.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLBanAn.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQLDanhMucMA.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLMonAn.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FQLTaiKhoan.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.DangNhap.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FBan.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.FDatMon.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.Properties.Resources.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FNhapKhachHang.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FQLNhanVien.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.FThongKe.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ_Án_Cuối_Kỳ___Lập_Trình_Hướng_Đối_Tượng.PVIEW.QuanLy.resources
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.GenerateResource.cache
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CoreCompileInputs.cache
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.csproj.CopyComplete
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.exe
+C:\Users\KHANH\Downloads\CK-QuanLyNhaHang - NGUYEN TRUNG KHANH - 2174801030100\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng\obj\Debug\Đồ Án Cuối Kỳ - Lập Trình Hướng Đối Tượng.pdb
